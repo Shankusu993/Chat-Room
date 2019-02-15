@@ -46,10 +46,12 @@ any one can type the reply first , once both of them enter their replies to ques
 This continues forever . A Client always has the option to exit the chat room by replying with an "exit".
 
 
-NOTE:
+
 
 A sample output should look like this:
+![Sample_Output](sample_output.png)
 
+NOTE:
 
 Here both recieves same questions 1 by 1 , there are total of 5 questions after which they repeat. This can be changed in the python server file.
 
